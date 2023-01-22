@@ -9,7 +9,7 @@ function ask(txt) {
 }
 
 function App() {
-   chat = new Chat("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");
+   chat = new Chat("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");
   return (
     <div>
       <textarea id="t"></textarea>

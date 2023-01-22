@@ -24,7 +24,7 @@ export class Chat {
     // var  = ans+"";
     // ans = ans.slice(1, ans.length)
     this.text+= " AI:" + ans+"\n";
-    console.log(this.text);
+    // console.log(this.text);
     return ans;
   }
 }
